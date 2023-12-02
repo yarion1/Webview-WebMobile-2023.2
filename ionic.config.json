@@ -1,0 +1,7 @@
+{
+  "name": "Webview-WebMobile-2023.2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
